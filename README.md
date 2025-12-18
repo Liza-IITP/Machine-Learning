@@ -45,3 +45,10 @@
 | Perceptron (Sigmoid-based)     | Sigmoid    | Gradient-like updates             | Adds non-linearity, smooth decision making                      |
 | Logistic Regression (Custom)   | Sigmoid    | MLE + Gradient Descent            | Trained using log loss; comparable to scikit-learn              |
 | Multiclass Logistic Regression | Softmax    | Cross-Entropy + Gradient Descent  | Load_Digits dataset, NDVI Land Cover Classification task        |
+
+## Decision Tree
+## SVM
+## Boosting and Bagging
+## Random-Forest
+## Beroulli and Gaussian Naive Bayes
+## KNN 
